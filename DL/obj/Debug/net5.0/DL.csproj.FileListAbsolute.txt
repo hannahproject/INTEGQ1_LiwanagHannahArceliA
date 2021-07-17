@@ -1,0 +1,12 @@
+C:\Users\HannahBilog\Desktop\OOP\DL\bin\Debug\net5.0\DL.deps.json
+C:\Users\HannahBilog\Desktop\OOP\DL\bin\Debug\net5.0\DL.dll
+C:\Users\HannahBilog\Desktop\OOP\DL\bin\Debug\net5.0\ref\DL.dll
+C:\Users\HannahBilog\Desktop\OOP\DL\bin\Debug\net5.0\DL.pdb
+C:\Users\HannahBilog\Desktop\OOP\DL\obj\Debug\net5.0\DL.csprojAssemblyReference.cache
+C:\Users\HannahBilog\Desktop\OOP\DL\obj\Debug\net5.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HannahBilog\Desktop\OOP\DL\obj\Debug\net5.0\DL.AssemblyInfoInputs.cache
+C:\Users\HannahBilog\Desktop\OOP\DL\obj\Debug\net5.0\DL.AssemblyInfo.cs
+C:\Users\HannahBilog\Desktop\OOP\DL\obj\Debug\net5.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\HannahBilog\Desktop\OOP\DL\obj\Debug\net5.0\DL.dll
+C:\Users\HannahBilog\Desktop\OOP\DL\obj\Debug\net5.0\ref\DL.dll
+C:\Users\HannahBilog\Desktop\OOP\DL\obj\Debug\net5.0\DL.pdb
